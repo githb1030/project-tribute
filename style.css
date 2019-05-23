@@ -1,0 +1,26 @@
+
+
+body {
+    background-color: #f4f4f4;
+    line-height: 1.6em;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+    height: 100%
+}
+
+.wrapper {
+    height: 800px;
+    width: 100%;
+
+    div {
+        background-color:aqua;
+        border: 1px solid black;
+        
+    }
+    
+    section {
+        background-color:coral;
+    }
+    
+    footer {
+        background-color: pink;
+    }
